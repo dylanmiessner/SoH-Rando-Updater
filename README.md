@@ -14,6 +14,8 @@ Requirements:
   * Python requests module
   * Python py7zr module
   
+  Step 0: Download the latest release from the link on the right. `source code.zip`
+  
   Step 1: download and install python3 from https://www.python.org/downloads/ and add it to PATH
   
   Step 2: After installing python to path run `pip install requests` in cmd
