@@ -5,6 +5,8 @@ This tool is Windows only.
 
 This tool will create the directory `Ship of Harkinian` on your C drive if it does not already exist.
 
+This tool retains all of your shipofharkinian.ini settings, saves, randomizer spoiler logs, and cvars.
+
 # Installation
 Requirements:
 
