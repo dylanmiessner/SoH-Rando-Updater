@@ -5,7 +5,7 @@ This tool is Windows only.
 
 This tool will create the directory `Ship of Harkinian` on your C drive if it does not already exist.
 
-This tool retains all of your shipofharkinian.ini settings, saves, randomizer spoiler logs, and cvars.
+WARNING: This tool retains all of your shipofharkinian.ini settings, saves, randomizer spoiler logs, and cvars. If you run into issues after updating to a new build, consider deleting shipofharkinian.ini and cvars.cfg as well as extracting a new oot.otr.
 
 # Installation
 Requirements:
