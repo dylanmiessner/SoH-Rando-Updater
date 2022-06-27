@@ -21,4 +21,5 @@ Requirements:
   Step 4: Right click and run installer.py with Python OR, from the folder where you downloaded the installer script `installer.py` in cmd
 
 # Usage Example
+Click this image to view a YouTube video with an example of how the tool works.
 [![SoH Rando Updater Tool Example](https://img.youtube.com/vi/OIggfeBYKHQ/0.jpg)](https://www.youtube.com/watch?v=OIggfeBYKHQ)
