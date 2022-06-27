@@ -19,3 +19,6 @@ Requirements:
   Step 3: Run `pip install py7zr` in cmd
   
   Step 4: Right click and run installer.py with Python OR, from the folder where you downloaded the installer script `installer.py` in cmd
+
+# Usage Example
+[![SoH Rando Updater Tool Example](https://img.youtube.com/vi/OIggfeBYKHQ/0.jpg)](https://www.youtube.com/watch?v=OIggfeBYKHQ)
