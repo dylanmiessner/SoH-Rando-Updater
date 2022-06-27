@@ -3,6 +3,8 @@ This is a simple Python3 script to simplify download a new Ship of Harkinian Ran
 
 This tool is Windows only.
 
+This tool will create the directory `Ship of Harkinian` on your C drive if it does not already exist.
+
 # Installation
 Requirements:
 
